@@ -1,5 +1,6 @@
 # README
-
+## Source Code
+ The modified files in AutoCache are put into the core directory. Developers can download the spark source code, replace the core directory, and then compile and package.
 
 
 ## Tool
